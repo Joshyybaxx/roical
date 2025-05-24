@@ -33,7 +33,7 @@ export default function LeadGenROICalculator() {
     installFeeB: <span className='text-green-400'>"One-Time Installation Investment (New Way - Higher Profits)"</span>,
     adSpendDaily: "Daily Ad Budget",
     leadCost: "Average Cost per Lead",
-    leadsPerDeal: "Leads Needed to Win a Listing",
+    leadsPerDeal: "Leads Needed to Win a Listing (Super Conservative)",
     dealValue: "GCI per Listing ($)",
   };
 
